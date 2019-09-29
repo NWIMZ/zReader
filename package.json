@@ -1,0 +1,22 @@
+{
+  "name": "zreader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NWIMZ/zReader.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NWIMZ/zReader/issues"
+  },
+  "homepage": "https://github.com/NWIMZ/zReader#readme",
+  "devDependencies": {
+    "electron": "^6.0.10"
+  }
+}
